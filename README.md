@@ -4,7 +4,8 @@ Builder 0 →1 | Generalist | Software Engineer | Product Marketing | Global B2B
 ## What I'm Working On
 
 1. New era software and AI-native apps
-2. AI Portfolio management tools
+2. AI Wealth management tools(investment porfolio, accounting)
+3. Agent CLI ergonomics, token spend budget and context control
 
 ## About Me
 
